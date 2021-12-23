@@ -50,13 +50,6 @@ nav .buttons .register {
     margin-right: 10px;
     color: white;
 }
-header {
-    margin-top: 40px;
-    background: url('img/WI Header');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 100px;
-}
 header h1{
     text-align: center;
     font-size: 60px;
